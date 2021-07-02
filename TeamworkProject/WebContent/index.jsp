@@ -10,6 +10,7 @@
 	<div class="container">
 		<h1>각자 페이지를 하나씩 만들어 봅시다!</h1>
 		<a href="lunch.jsp"><strong>점심 메뉴</strong> 적으세요</a>
+		<a href="dessert.jsp"><strong>디저트</strong> 고르세요</a>
 	</div>
 </body>
 </html>
