@@ -4,11 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JH.jsp</title>
+<title>lucky.jsp</title>
 </head>
 <body>
-	<h1>이지현의 페이지입니다</h1>
-	<p>오늘의 점심은 순두부찌개 입니다~</p>
-	<p>오늘 저녁 간식은 츄러스입니다</p>
+	<h1>로또 명당 자리를 알려드리겠습니다</h1>
+	<p>줄서서 로또 사는 곳입니다</p>
+	<a href="http://naver.me/xNdZUWRV"></a>
+
 </body>
 </html>
