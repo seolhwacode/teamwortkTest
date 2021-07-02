@@ -108,7 +108,7 @@ a { text-decoration:none !important }
 	</div>
     </div>
   </div>
-  
+</nav>
 
 </body>
 </html>

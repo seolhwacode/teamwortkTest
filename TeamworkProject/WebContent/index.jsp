@@ -5,8 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>/index.jsp</title>
+<jsp:include page="/include/resource.jsp"></jsp:include>
 </head>
 <body>
+<jsp:include page="navbar.jsp"></jsp:include>
 	<div class="container">
 		<h1>각자 페이지를 하나씩 만들어 봅시다!</h1>
     	<ul>
